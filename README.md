@@ -1,3 +1,4 @@
+![Uploading BCM_MAGENTO_DATABASE.jpg…]()
 # BCM Nexus — Data Pipeline
 
 Turns raw Magento e-commerce data into a clean, reporting-ready star schema for Power BI — no coding experience required.
