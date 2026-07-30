@@ -49,6 +49,7 @@ Open `02_pipeline.sql` in a text editor. Near the top of the file, you'll see tw
 - `STAGING_DB`
 
 Using **Find & Replace** (`Ctrl+H` in most editors, including VS Code):
+p/s: you can also keep these two name if it's easy to understand for you
 
 1. Replace every `STAGING_DB` with the name of the staging database you created in Step 1
 2. Replace every `SOURCE_DB` with the name of the source database you created in Step 1
